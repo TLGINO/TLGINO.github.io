@@ -12,5 +12,14 @@
       <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
       <description><![CDATA[Patchify Test Description]]></description>
     </item>
+    <item>
+      <title>Patchify Update 1.13.2</title>
+      <pubDate>Mon, 8 Nov 2021 21:10:44 +0100</pubDate>
+      <description><![CDATA[Patchify release 1.13.2 patch notes:
+-Database Revamp
+-Users can now sync their subscriptions accross all their devices!
+-Fixed Sea Of Thieves updates
+-Fixed ARK updates]]></description>
+    </item>
   </channel>
 </rss>
