@@ -5,14 +5,16 @@
     <title>Patchify</title>
     <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
     <description>-Fixed Sea Of Thieves updates (again)
--Added Minecraft Bedrock (notifications are not yet configured)
--Added Minecraft Java (notifications are not yet configured)</description>
+&lt;p&gt;-Added Minecraft Bedrock (notifications are not yet configured)&lt;/p&gt;
+&lt;p&gt;-Added Minecraft Java (notifications are not yet configured)&lt;/p&gt;</description>
     <language>en-us</language>
     <item>
       <title>Patchify release 1.13.3 patch notes:</title>
       <pubDate>Sun, 21 Nov 2021 11:56:28 +0100</pubDate>
       <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
-      <description><![CDATA[-Fixed Sea Of Thieves updates (again) -Added Minecraft Bedrock (notifications are not yet configured) -Added Minecraft Java (notifications are not yet configured)]]></description>
+      <description><![CDATA[-Fixed Sea Of Thieves updates (again)
+<p>-Added Minecraft Bedrock (notifications are not yet configured)</p>
+<p>-Added Minecraft Java (notifications are not yet configured)</p>]]></description>
     </item>
     <item>
       <title>Patchify Update 1.13.2</title>
