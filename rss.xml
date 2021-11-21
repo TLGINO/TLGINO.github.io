@@ -4,11 +4,20 @@
     <generator>RSS Builder by B!Soft</generator>
     <title>Patchify</title>
     <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
-    <description>Patchify Patch Notes</description>
+    <description>-Fixed Sea Of Thieves updates (again)
+-Added Minecraft Bedrock (notifications are not yet configured)
+-Added Minecraft Java (notifications are not yet configured)</description>
     <language>en-us</language>
+    <item>
+      <title>Patchify release 1.13.3 patch notes:</title>
+      <pubDate>Sun, 21 Nov 2021 11:56:28 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
+      <description><![CDATA[-Fixed Sea Of Thieves updates (again) -Added Minecraft Bedrock (notifications are not yet configured) -Added Minecraft Java (notifications are not yet configured)]]></description>
+    </item>
     <item>
       <title>Patchify Update 1.13.2</title>
       <pubDate>Mon, 8 Nov 2021 21:10:44 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
       <description><![CDATA[Patchify release 1.13.2 patch notes:
 -Database Revamp
 -Users can now sync their subscriptions across all their devices!
