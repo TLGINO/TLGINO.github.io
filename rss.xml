@@ -8,6 +8,23 @@
 &lt;p&gt;-Added Minecraft Bedrock (notifications are not yet configured)&lt;/p&gt;
 &lt;p&gt;-Added Minecraft Java (notifications are not yet configured)&lt;/p&gt;</description>
     <language>en-us</language>
+    
+    <item>
+      <title>Patchify release 1.13.4 patch notes:</title>
+      <pubDate>Sun, 10 Jan 2022 11:56:28 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
+      <description>
+        <![CDATA[-Fixed Sea Of Thieves updates yet again...
+        <p>-Fixed ARK updates yet again... </p>
+        <p>-Added Minecraft Java notifications</p>
+        <p>-Added Share App Button</p>
+        <p>-Auto sub to patchify on app start</p>
+        <p>-Worked on Database optimisations</p>
+        ]]>
+      </description>
+    </item>
+    
+    
     <item>
       <title>Patchify release 1.13.3 patch notes:</title>
       <pubDate>Sun, 21 Nov 2021 11:56:28 +0100</pubDate>
