@@ -6,6 +6,23 @@
     <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
     <language>en-us</language>
     
+
+    
+
+    <item>
+      <title>Patchify release 1.13.6 patch notes:</title>
+      <pubDate>Sun, 27 Jan 2022 11:56:28 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
+      <description>
+        <![CDATA[
+<p>-Added World Of Warcraft</p>
+<p>-Added Overwatch</p>
+<p>-Fixed SOT and ARK a bit more...</p>
+<p>-Standardised date format to dd-MMM-yyyy (susceptible to change)</p>
+<p>-Links will now open in a webview and not browser</p>
+]]>
+      </description>
+    </item>
     
     
     <item>
