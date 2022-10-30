@@ -7,13 +7,30 @@
     <language>en-us</language>
     
 
+    
+            <item>
+      <title>Patchify release 1.16 patch notes:</title>
+      <pubDate>Sun, 30 Oct 2022 11:56:28 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
+      <description>
+        <![CDATA[
+<p>-Big fixes to loading time</p>
+<p>-Custom notifications</p>
+<p>-Crash-proofed app a lot</p>
+<p>-General bug fixes</p>
+
+]]>
+      </description>
+    </item>
+    
+    
         <item>
       <title>Patchify release 1.14.2 patch notes:</title>
       <pubDate>Sun, 26 Jun 2022 11:56:28 +0100</pubDate>
       <link>https://play.google.com/store/apps/details?id=com.TLgino.gameupdatenotifier</link>
       <description>
         <![CDATA[
-<p>--Search Bar Setup in Home and Games</p>
+<p>-Search Bar Setup in Home and Games</p>
 <p>-Fixed some Loading bugs</p>
 <p>-Optimised app</p>
 ]]>
